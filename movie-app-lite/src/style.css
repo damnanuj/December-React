@@ -1,0 +1,47 @@
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: gray;
+}
+.container{
+    display: flex;
+    gap: 4rem;
+    /* background-color: gray; */
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
+    
+    
+}
+
+.movieList p{
+    color: tomato;
+    background-color: black;
+    padding: 12px;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 5px;
+}
+
+
+.movieDetails {
+    background-color: black;
+    color: tomato;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}

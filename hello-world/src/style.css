@@ -1,0 +1,38 @@
+
+
+
+
+/* #root{
+    background-color: black;
+    color: tomato;
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.counter, .ObjectCounter{
+    padding: 20px;
+    background-color: black;
+    color: tomato;
+    text-align: center;
+    margin-top: 10px;
+}
+.form1{
+    margin-top: 10px;
+    background-color: gray;
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+.form input{
+   width:250px;
+   height: 30px;
+   margin-bottom:10px;
+}
+
+.fruitArr{
+    text-align: center;
+    background-color: goldenrod;
+}
